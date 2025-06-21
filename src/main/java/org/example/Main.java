@@ -7,5 +7,9 @@ public class Main {
         System.out.println("This is the code change for the branch 3");
 
         //These are the code changes for branch 4
+        Employee emp = new Employee("Toronto",
+                1,"Aayush");
+
+        System.out.println(emp);
     }
 }
