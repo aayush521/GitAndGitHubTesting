@@ -21,5 +21,7 @@ public class Main {
         //These are the code changes for branch 6
         System.out.println("This is the code change for the branch 6");
 
+        //Changes for branch 7 as an example
+
     }
 }
